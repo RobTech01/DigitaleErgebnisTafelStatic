@@ -1,5 +1,5 @@
 
-# Digitale Ergebnistafel für Leichtathletik-Wettkämpfe (Proof-Of-Concept)
+# Digitale Ergebnistafel für Leichtathletik-Wettkämpfe (Static Version)
 
 ## Description
 **Digitale Ergebnistafel für Leichtathletik-Wettkämpfe** is a Python-based automation tool designed to create dynamic digital result boards for track events. Leveraging HTML web scraping, it extracts essential information from the official DLV results page for most national events. The tool automizes the process of displaying lane information for live-stream purposes in real-time using PowerPoint. This is a proof-of-concept.
